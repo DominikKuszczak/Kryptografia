@@ -7,7 +7,7 @@ import java.util.List;
 
 public class Deszyfrator 
 {
-	public static void main(String[] args) throws IOException
+	/*public static void main(String[] args) throws IOException
 	{
 	List<List<String>> klucze = new ArrayList<>();
 	GetData Data=new GetData();
@@ -55,5 +55,5 @@ public class Deszyfrator
 		}
 		System.out.println("");		
 	}	
-	}
+	}*/
 }
